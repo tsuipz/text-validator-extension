@@ -1,0 +1,10 @@
+{
+	"name": "Text Validator",
+	"description": "Transform your Text from uppercase to lowercase",
+	"author": "Patrick Tsui",
+	"version": "0.1",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "popup/index.html"
+	}
+}

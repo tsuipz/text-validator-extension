@@ -1,6 +1,6 @@
-# Text Validator
+# Text Validator Extension
 
-This extensions focuses on transforming uppercase text to lowercase text to ensure that screen readers are not causing issues.
+This extension focuses on transforming uppercase text to lowercase text to ensure that screen readers are not causing issues.
 
 ## Features
 
